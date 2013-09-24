@@ -1,4 +1,4 @@
-Elm at StrangeLoop
+Elm at StrangeLoop 2012
 ==================
 
 The video lives [here on InfoQ](http://www.infoq.com/presentations/Elm).
