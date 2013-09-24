@@ -1,5 +1,7 @@
-Elm at StrangeLoop 2012
-==================
+Making the Web Functional
+=========================
+
+This is the talk from the Emerging Languages Camp at StrangeLoop 2012.
 
 The video lives [here on InfoQ](http://www.infoq.com/presentations/Elm).
 
